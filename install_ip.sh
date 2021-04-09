@@ -1,6 +1,6 @@
 #!/bin/bash
-if [ "$EUID$ -ne 0 ]
-  then echo "Lancer le programme en tant qu'administrateur"
+if [ "$EUID" -ne 0 ]
+  then echo "Lancer le programme en administrateur"
   exit
 fi
 apt-get update
