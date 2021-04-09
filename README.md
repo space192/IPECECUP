@@ -1,7 +1,7 @@
 on commence sur la pi par cloner le respositorie
 ```
 cd Desktop
-https://github.com/space192/IPECECUP.git
+git clone https://github.com/space192/IPECECUP.git
 ```
 
 ensuite on fait :
