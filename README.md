@@ -9,7 +9,7 @@ ensuite on fait :
 cd IPECECUP
 sudo chmod +x install_ip.sh
 sudo chmod +x remove_ip.sh
-sudo chmod +x main
+sudo chmod +x 'Afficheur IP'
 ```
 puis on lance le script d'installation(on oublie pas le SUDO)
 ```
